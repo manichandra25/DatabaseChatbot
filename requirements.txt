@@ -4,4 +4,5 @@ langchain-community>=0.0.14
 openai
 pymysql
 sqlalchemy
+pymongo
 python-dotenv
